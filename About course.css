@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+h3 {
+    margin: 20px;
+    color: #333;
+}
+
+
+ul {
+    list-style-type: none; 
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px; 
+}
+
+
+#one {
+    font-size: 24px;
+    color: red;
+}
+
+#three {
+    font-style: italic;
+    text-align: center;
+    margin: 20px 40px;
+}
+
+#four {
+    text-align: center;
+    color: purple;
+    margin: 20px 40px;
+}
+
+span {
+    color: red;
+}
+
+/* Style for links */
+a {
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(7, 7, 255);
+    text-decoration: none; /* Remove underline */
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+}
+
+a:hover {
+    color: lightseagreen;
+    cursor: pointer;
+}
+h1{
+    color: red;
+    text-align: center;
+}
